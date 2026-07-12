@@ -78,7 +78,7 @@ const sayam = {
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Codex Ledger(https://github.com/sayam242/CodexLedger)
+### 📊 [Codex Ledger](https://github.com/sayam242/CodexLedger)
 A LeetCode companion that tracks submitted problems, analyzes solving patterns, and uses **Generative AI** to help strengthen DSA fundamentals — turning raw submission history into actionable insights on weak areas.
 
 
