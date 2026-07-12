@@ -109,7 +109,7 @@ A comprehensive healthcare management system automating Panchakarma therapy sche
 <td width="50%" valign="top">
 
 ### 🧠 Smart AI-Based Accident Detection
-Funded by **PSCST, Govt. of Punjab**. Designing an AI-enabled system to detect severe vehicle accidents using sensor data, real-time analysis, and automated hospital alerting — as part of a 5-member research team.
+Funded by **PSCST, Govt. of Punjab**. Designing an AI-enabled system to detect severe vehicle accidents using sensor data, real-time analysis, and automated hospital alerting.
 
 `AI/ML` `Sensor Integration` `System Architecture`
 
