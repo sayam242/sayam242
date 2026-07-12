@@ -30,7 +30,7 @@ const sayam = {
 
 - 🎓 Studying **Electronics & Communication Engineering** at Punjab Engineering College, Chandigarh
 - 💻 Building end-to-end **MERN stack** products — from database schema to deployment
-- 🧩 Strong foundation in **Data Structures & Algorithms** — 550+ problems solved on LeetCode
+- 🧩 Strong foundation in **Data Structures & Algorithms**
 - 🤖 Currently exploring how **Generative AI** can enhance developer tools and learning platforms
 - 🚑 Working on a **PSCST (Govt. of Punjab) funded research project** on AI-based accident detection
 - 📫 Reach me at **sayam2422004@gmail.com**
