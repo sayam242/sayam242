@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:764ba2&height=220&section=header&text=Hi%20There,%20I'm%20Sayam%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20(MERN)%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20AI%20Builder&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=B.Tech+ECE+%40+Punjab+Engineering+College;Building+Full-Stack+MERN+Applications;550%2B+DSA+Problems+Solved+on+LeetCode;Exploring+GenAI+%2B+Web+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=B.Tech+ECE+%40+Punjab+Engineering+College;Building+Full-Stack+MERN+Applications;;Exploring+GenAI+%2B+Web+Development" alt="Typing SVG" />
 
 <br/>
 
@@ -10,7 +10,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayam2422004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayam242)
 
-<img src="https://komarev.com/ghpvc/?username=sayam242&label=Profile%20Views&color=6366F1&style=flat" alt="Profile views" />
 
 </div>
 
@@ -79,46 +78,31 @@ const sayam = {
 <tr>
 <td width="50%" valign="top">
 
+### 📊 Codex Ledger(https://github.com/sayam242/CodexLedger)
+A LeetCode companion that tracks submitted problems, analyzes solving patterns, and uses **Generative AI** to help strengthen DSA fundamentals — turning raw submission history into actionable insights on weak areas.
+
+`Generative AI` `Browser Extension` `Analytics` `MERN`
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🚨 [VIGILANT — Accident Detection & Response](https://github.com/sayam242/Accident-detection-and-safety-alert-webapp)
 A MERN-based emergency alert platform built with a 3-member team, featuring real-time reporting, map integration, and role-based dashboards (Auth, Reporter, Dashboard) for scalable emergency response.
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `ImageKit`
 
 </td>
+
+
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌿 [AyurSutra — AI-Powered Panchakarma Platform](https://github.com/sayam242/AyurSutra)
-A comprehensive healthcare management system automating Panchakarma therapy scheduling with AI, multi-channel notifications (SMS/Email/In-app), and real-time progress tracking.
+A comprehensive healthcare management system automating Panchakarma therapy scheduling with AI, In-app notifications , and real-time progress tracking.
 
 `React.js` `Node.js` `MongoDB` `FastAPI` `LangChain` `Gemini 2.5 Pro`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Codex Ledger
-A LeetCode companion that tracks submitted problems, analyzes solving patterns, and uses **Generative AI** to help strengthen DSA fundamentals — turning raw submission history into actionable insights on weak areas.
-
-`Generative AI` `Browser Extension` `Analytics` `MERN`
-
-</td>
-<td width="50%" valign="top">
-
-### 👥 [Collaborative Code Editor](https://github.com/sayam242/colaborative-code-editor)
-A real-time collaborative code editor enabling multiple users to write and run code together in a shared session.
-
-`JavaScript` `Real-time Collaboration` `WebSockets`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎤 [Interview AI](https://github.com/sayam242/Interview_AI)
-An AI-driven mock interview platform designed to help users practice and improve their interview performance.
-
-`JavaScript` `Generative AI`
 
 </td>
 <td width="50%" valign="top">
@@ -129,6 +113,7 @@ Funded by **PSCST, Govt. of Punjab**. Designing an AI-enabled system to detect s
 `AI/ML` `Sensor Integration` `System Architecture`
 
 </td>
+
 </tr>
 </table>
 
@@ -149,23 +134,6 @@ Funded by **PSCST, Govt. of Punjab**. Designing an AI-enabled system to detect s
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sayam242&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366F1&icon_color=764ba2" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayam242&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayam242&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=764ba2" width="70%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sayam242&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="90%"/>
-
-</div>
-
-<br/>
 
 ## 📫 Let's Connect
 
