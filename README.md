@@ -81,14 +81,15 @@ const sayam = {
 ### 📊 Codex Ledger(https://github.com/sayam242/CodexLedger)
 A LeetCode companion that tracks submitted problems, analyzes solving patterns, and uses **Generative AI** to help strengthen DSA fundamentals — turning raw submission history into actionable insights on weak areas.
 
-`Generative AI` `Browser Extension` `Analytics` `MERN`
 
+`Generative AI` `Browser Extension` `Analytics` `MERN`
 </td>
 
 <td width="50%" valign="top">
 
 ### 🚨 [VIGILANT — Accident Detection & Response](https://github.com/sayam242/Accident-detection-and-safety-alert-webapp)
 A MERN-based emergency alert platform built with a 3-member team, featuring real-time reporting, map integration, and role-based dashboards (Auth, Reporter, Dashboard) for scalable emergency response.
+
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `ImageKit`
 
