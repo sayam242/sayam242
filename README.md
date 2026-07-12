@@ -89,7 +89,7 @@ A LeetCode companion that tracks submitted problems, analyzes solving patterns, 
 
 ### 🚨 [VIGILANT — Accident Detection & Response](https://github.com/sayam242/Accident-detection-and-safety-alert-webapp)
 A MERN-based emergency alert platform built with a 3-member team, featuring real-time reporting, map integration, and role-based dashboards (Auth, Reporter, Dashboard) for scalable emergency response.
-
+</br>
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `ImageKit`
 
@@ -102,9 +102,9 @@ A MERN-based emergency alert platform built with a 3-member team, featuring real
 
 ### 🌿 [AyurSutra — AI-Powered Panchakarma Platform](https://github.com/sayam242/AyurSutra)
 A comprehensive healthcare management system automating Panchakarma therapy scheduling with AI, In-app notifications , and real-time progress tracking.
+</br>
 
 `React.js` `Node.js` `MongoDB` `FastAPI` `LangChain` `Gemini 2.5 Pro`
-
 </td>
 <td width="50%" valign="top">
 
